@@ -1,0 +1,1 @@
+#This package is updated in version 1.6 which contains all the images for the UI
