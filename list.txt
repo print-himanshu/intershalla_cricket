@@ -33,3 +33,6 @@ PyQt5\\Qt\\plugins\\imageformats\\qsvg.dll
 PyQt5\\Qt\\plugins\\imageformats\\qicns.dll
 PyQt5\\Qt\\plugins\\imageformats\\qtga.dll
 PyQt5\\Qt\\plugins\\imageformats\\qico.dll
+
+Git version testing 
+first change
