@@ -37,3 +37,4 @@ PyQt5\\Qt\\plugins\\imageformats\\qico.dll
 Git version testing 
 first change
 second change
+third change
